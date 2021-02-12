@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="history">History</string>
+    <string name="search">Search</string>
+    <string name="todo">TODO</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+</resources>
